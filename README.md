@@ -112,7 +112,7 @@ I treat debugging like solving puzzles—it’s less frustration, more satisfact
 - 🏆 NTSE Scholar & GK Olympiad Gold Medalist  
 - 🛡️ Google Cybersecurity Fundamentals Certified  
 - 🥇 Python + Data Structures by LeetCode  
-- 🚴 Cycled 50KM & Ran 7KM for Eco Parvaah  
+- 🚴 Ran 3 Half Marathons till now and planning to run a Marathon by year end 
 
 ---
 
